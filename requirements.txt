@@ -1,0 +1,5 @@
+google-cloud-compute>=1.18.0
+google-auth>=2.29.0
+pytz>=2024.1
+python-dateutil>=2.9.0
+google-oauth>=1.0.1
