@@ -51,3 +51,19 @@ Deleting disk pvc-861cacd5-e67f-4caa-8374-567322cbf4d3
 Disk pvc-861cacd5-e67f-4caa-8374-567322cbf4d3 was deleted
 ```
 * Open GCP console to the snapshots page to monitor snapshot being created
+
+## Contribution Guidelines
+1. Fork the repository and create a new feature branch.
+2. Follow best practice python coding and security standards.
+3. Submit a pull request and request a review from a maintainer.
+
+## Code of Conduct
+All contributors must:
+- Be respectful and inclusive.
+- Avoid harassment or discriminatory behavior.
+- Follow GitHub’s Community Guidelines.
+
+## Governance Model
+- The project is maintained by a core team of maintainers.
+- Major decisions require consensus among maintainers.
+- Security vulnerabilities are addressed privately before public disclosure.
